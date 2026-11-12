@@ -19,6 +19,6 @@ sousProjets:
     titreDevops: "package · unity-gameplay-balance-sheets"
 ---
 
-Une équipe de 16 étudiants : 3 développeurs, 3 artistes 2D, 1 artiste 3D, 3 sound designers, 1 game et level designer, 1 scénariste, et des aides extérieures pour les VFX et les animations. Chacun choisit ses tâches dans la semaine, chaque milestone a une date de fin.
+Une équipe de 16 personnes : 3 développeurs, 3 artistes 2D, 1 artiste 3D, 3 sound designers, 1 game et level designer, 1 scénariste, et des aides extérieures pour les VFX et les animations. Chacun choisit ses tâches dans la semaine, chaque milestone a une date de fin.
 
 Je fais le lien entre tous : production, management, DevOps et un peu de communication.

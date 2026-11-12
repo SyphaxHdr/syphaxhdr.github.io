@@ -4,6 +4,16 @@ Format : une section par version, la plus récente en haut.
 
 ## [Non publié]
 
+## [1.1.1] - 2026-11-12
+
+### Ajouté
+
+- Un aperçu quand on partage un lien du site (réseaux sociaux, messageries) : une image, le titre et le résumé de la page.
+
+### Corrigé
+
+- Amachahou : l'équipe compte 16 personnes, pas 16 étudiants (certains sont des aides extérieures).
+
 ## [1.1.0] - 2026-11-06
 
 Le site en anglais.
